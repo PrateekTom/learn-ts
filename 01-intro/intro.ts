@@ -436,10 +436,3 @@ console.log("Exercise 2");
 const greet3 = (name: string = "Max"): void => console.log(`Hello, ${name}`);
 greet3();
 greet3("Anna");
-
-
-
-
-
-
-
